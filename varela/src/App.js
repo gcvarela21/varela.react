@@ -18,10 +18,11 @@ function App() {
     <Header />
     <Nav />
     <Switch>
-      <Route exact path={"/"} component={Landing} />
+      <Route exact path={["/", "/varela.react"]} component={Landing} />
       <Route exact path={"/about"} component={About} />
       <Route exact path={"/contact"} component={Contact} />
       <Route exact path={"/work"} component={MyWork} />
+      <Route component={Landing} />
     </Switch>
     <Footer />
     </Router>
