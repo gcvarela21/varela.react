@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/varela.react/static/js/main.c0299e36.chunk.js",
+    "main.js.map": "/varela.react/static/js/main.c0299e36.chunk.js.map",
+    "runtime-main.js": "/varela.react/static/js/runtime-main.febbd7c8.js",
+    "runtime-main.js.map": "/varela.react/static/js/runtime-main.febbd7c8.js.map",
+    "static/js/2.dd81c228.chunk.js": "/varela.react/static/js/2.dd81c228.chunk.js",
+    "static/js/2.dd81c228.chunk.js.map": "/varela.react/static/js/2.dd81c228.chunk.js.map",
+    "index.html": "/varela.react/index.html",
+    "static/js/2.dd81c228.chunk.js.LICENSE.txt": "/varela.react/static/js/2.dd81c228.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.febbd7c8.js",
+    "static/js/2.dd81c228.chunk.js",
+    "static/js/main.c0299e36.chunk.js"
+  ]
+}
