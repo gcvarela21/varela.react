@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/varela.react/static/js/main.c0299e36.chunk.js",
-    "main.js.map": "/varela.react/static/js/main.c0299e36.chunk.js.map",
+    "main.css": "/varela.react/static/css/main.6bf749d3.chunk.css",
+    "main.js": "/varela.react/static/js/main.b3fc9a16.chunk.js",
+    "main.js.map": "/varela.react/static/js/main.b3fc9a16.chunk.js.map",
     "runtime-main.js": "/varela.react/static/js/runtime-main.febbd7c8.js",
     "runtime-main.js.map": "/varela.react/static/js/runtime-main.febbd7c8.js.map",
-    "static/js/2.dd81c228.chunk.js": "/varela.react/static/js/2.dd81c228.chunk.js",
-    "static/js/2.dd81c228.chunk.js.map": "/varela.react/static/js/2.dd81c228.chunk.js.map",
+    "static/js/2.2ced8ea8.chunk.js": "/varela.react/static/js/2.2ced8ea8.chunk.js",
+    "static/js/2.2ced8ea8.chunk.js.map": "/varela.react/static/js/2.2ced8ea8.chunk.js.map",
     "index.html": "/varela.react/index.html",
-    "static/js/2.dd81c228.chunk.js.LICENSE.txt": "/varela.react/static/js/2.dd81c228.chunk.js.LICENSE.txt"
+    "static/css/main.6bf749d3.chunk.css.map": "/varela.react/static/css/main.6bf749d3.chunk.css.map",
+    "static/js/2.2ced8ea8.chunk.js.LICENSE.txt": "/varela.react/static/js/2.2ced8ea8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.febbd7c8.js",
-    "static/js/2.dd81c228.chunk.js",
-    "static/js/main.c0299e36.chunk.js"
+    "static/js/2.2ced8ea8.chunk.js",
+    "static/css/main.6bf749d3.chunk.css",
+    "static/js/main.b3fc9a16.chunk.js"
   ]
 }
