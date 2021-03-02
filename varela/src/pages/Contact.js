@@ -33,7 +33,8 @@ function Contact() {
             </div>
 
             <div className="cointainer-fluid d-none d-md-inline row contact-sm pady">
-                <div className="col-6">
+            <div className="col-2"></div>
+                <div className="col-8">
                     <div className="row">
                         <h2 id="contact" className="h2c col-12 d-flex justify-content-center green ">Contact</h2>
 
@@ -47,34 +48,11 @@ function Contact() {
                             <p id="pg" className="d-flex justify-content-center">varela_gloria@yahoo.com</p>
                             <p id="pg" className="d-flex justify-content-center">Alameda, CA</p>
                         </div>
-
-                        <h2 id="" className="h2c col-12 d-flex justify-content-center green">About</h2>
-                        <div className="col-12">
-                            <div className="row">
-                                <div className="col-1"></div>
-                                <div id="about-lg" className="col-10">
-                                    <p id="p">Throughout my life, I’ve always been a hands-on person who is constantly learning new skills. </p>
-
-                                    <p id="p"> While studying Visual Arts in Southern California I worked part-time as a handyman and cable technician. </p>
-
-                                    <p id="p"> Although these roles were vastly different from what I was studying in school, I learned a lot about problem-solving, creative thinking, and troubleshooting.</p>
-
-                                    <p id="p">These became the building blocks that sparked a curiosity for me to move into digital design.</p>
-
-                                    <p id="p">I transferred to Cal State East Bay where I continued my studies in UX Design. The various classNamees I took there opened me up to more opportunities to learn new programs and tools. </p>
-
-                                    <p id="p">Upon Completing my course work for my BFA, in UX Design Fall of 2020, I decided to further my skills and training at the University of California Berkeley’s Full Stack Web Developer Bootcamp. </p>
-
-                                    <p id="p">As a Future Digital Designer, I’ve found a place where I can balance both my love for visual design with the problem-solving skills needed front and back-end web developement and design.</p>
-                                </div>
-                                <div className="col-1"></div>
-                            </div>
-                        </div>
-
-
                     </div>
                 </div>
-                <div className="col-6">
+                <div className="col-2"></div>
+                <div className="col-2"></div>
+                <div className="col-10">
                     <div className="row">
                         <h2 id="" className="h2c d-flex justify-content-center padz green">Let's Collaborate</h2>
                         <div className="pads col-xs-0 col-sm-0 col-12 "></div>
@@ -85,6 +63,7 @@ function Contact() {
                         </div>
                     </div>
                 </div>
+                <div className="col-2"></div>
                 <div className="padz col-xs-0 col-sm-0 col-12 "></div>
                 <div className="padz col-xs-0 col-sm-0 col-12 "></div>
             </div>
