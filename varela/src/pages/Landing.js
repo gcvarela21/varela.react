@@ -12,7 +12,7 @@ function Landing() {
                     <div className="col-12 decor-n d-flex justify-content-center">
                         <a href="https://drive.google.com/file/d/1o0BVEWqNAt_cpm6CbKdZB7ro53o8Xgxm/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i
                             className="awesome fas fa-file-pdf"></i></a>
-                        <a href="https://www.glo.digital" target="_blank" rel="noopener noreferrer"><i className="awesome fas fa-globe-americas"></i></a>
+                        <a href="https://www.glo.digital" target="_blank" rel="noreferrer"><i className="awesome fas fa-globe-americas"></i></a>
                         <a href="https://www.linkedin.com/in/glovarela" target="_blank" rel="noopener noreferrer"><i className="awesome fab fa-linkedin"></i></a>
                         <a href="https://github.com/gcvarela21" target="_blank" rel="noopener noreferrer"><i className="awesome fab fa-github"></i></a>
                         <a href="https://www.instagram.com/glo.digital.ig/" target="_blank" rel="noopener noreferrer"><i
