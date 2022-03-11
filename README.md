@@ -6,7 +6,7 @@ Creating a web-based portfolio using React.
 
 ## **Deployed Link**
 
-* [Web Portfolio](https://varela.design/)
+* [Web Portfolio](https://gcvarela21.github.io/varela.react/)
 
 ## **Built With**
 
